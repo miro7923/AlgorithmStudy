@@ -1,4 +1,4 @@
-package AlgorithmStudy.ByungwooKim.Strings;
+package AlgorithmStudy.ByungWooKim.Strings;
 
 /*
  * # 문제 주소
