@@ -1,4 +1,4 @@
-package ByungwooKim.BFS;
+package AlgorithmStudy.ByungWooKim.BFS;
 
 /*
  * # 문제 주소
