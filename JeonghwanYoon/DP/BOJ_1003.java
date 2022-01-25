@@ -14,7 +14,7 @@ public class BOJ_1003 {
 		 * 	다음 소스는 N번째 피보나치 수를 구하는 C++ 함수이다.
 		 * 
 		 * 	int fibonacci(int n) { if (n == 0) { printf("0"); return 0; } else if (n ==
-		 * 	1) { printf("1"); return 1; } else { return fibonacci(n‐1) + fibonacci(n‐2);
+		 * 	1) { printf("1"); return 1; } else { return fibonacci(n‐1)  + fibonacci(n‐2);
 		 * 	} } fibonacci(3)을 호출하면 다음과 같은 일이 일어난다.
 		 * 
 		 * 	fibonacci(3)은 fibonacci(2)와 fibonacci(1) (첫 번째 호출)을 호출한다. fibonacci(2)는
