@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="TEST"/>
 	<classpathentry kind="src" path="BFS"/>
 	<classpathentry kind="src" path="DFS"/>
 	<classpathentry kind="src" path="DP"/>
