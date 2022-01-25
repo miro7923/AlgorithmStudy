@@ -1,4 +1,4 @@
-package AlgorithmStudy.ByungwooKim.Greedy;
+package AlgorithmStudy.ByungooKim.Greedy;
 
 /*
  * # 문제 주소
