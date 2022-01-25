@@ -21,7 +21,7 @@ public class BOJ_1463 {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		int N = scanner.nextInt(); // 10^6까지 이므로 int형 사용가능
+		int N = scanner.nextInt(); // 10^6까지 이므로 int형 사용가능! 
 		int[] arr = new int[N+1];
 		scanner.close(); 
 		arr[1] = 0;

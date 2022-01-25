@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JeonghwanYoon/AlgorithmStudy/JinyeongKim/Greedy"/>
+	<classpathentry kind="src" path="JeonghwanYoon/AlgorithmStudy/JinyeongKim/Strings"/>
+	<classpathentry kind="src" path="JeonghwanYoon/AlgorithmStudy/YujinHwang/Strings"/>
+	<classpathentry kind="src" path="JeonghwanYoon/AlgorithmStudy/YujinHwang/Test"/>
+	<classpathentry kind="src" path="JeonghwanYoon/BFS"/>
+	<classpathentry kind="src" path="JeonghwanYoon/DFS"/>
+	<classpathentry kind="src" path="JeonghwanYoon/Greedy"/>
+	<classpathentry kind="src" path="JeonghwanYoon/Strings"/>
+	<classpathentry kind="src" path="JinyeongKim/Greedy"/>
+	<classpathentry kind="src" path="JinyeongKim/Strings"/>
+	<classpathentry kind="src" path="YujinHwang/Strings"/>
+	<classpathentry kind="src" path="YujinHwang/Test"/>
+	<classpathentry kind="output" path="JeonghwanYoon/bin"/>
+</classpath>
