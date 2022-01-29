@@ -5,7 +5,7 @@ public class BOJ_1463 {
 	public static void main(String[] args) {
 
 //		
-//		문제
+//		문제  
 //		정수 X에 사용할 수 있는 연산은 다음과 같이 세 가지 이다.
 //
 //		X가 3으로 나누어 떨어지면, 3으로 나눈다.
