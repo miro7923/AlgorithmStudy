@@ -1,6 +1,6 @@
 /*
  * # 문제 주소
- * https://www.acmicpc.net/problem/9012
+ * https://www.acmicpc.net/problem/1316
  *
  * 문제
  * 그룹 단어란 단어에 존재하는 모든 문자에 대해서, 각 문자가 연속해서 나타나는 경우만을 말한다.
