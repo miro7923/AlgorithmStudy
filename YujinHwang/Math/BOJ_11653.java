@@ -31,26 +31,6 @@ import java.io.*;
 import java.util.*;
 
 public class Main {
-	
-	// 입력된 수가 소수인지 판별하는 함수
-	public static boolean isPrimeNum(int num)
-	{
-		// 2보다 작으면 1인데 1은 소수가 아니니까 false 리턴
-		if (2 > num)
-			return false;
-		
-		// num의 제곱근을 구한다.
-		int a = (int) Math.sqrt(num);
-		for (int i = 2; a >= i; i++)
-		{
-			// 2부터 제곱근만큼만 반복하면서 나눠 떨어지는 수가 있으면 소수가 아니다.
-			if (0 == num % i)
-				return false;
-		}
-		
-		// 위 반복문을 통과하면 소수
-		return true;
-	}
 
 	public static void main(String[] args) throws IOException {
 		
