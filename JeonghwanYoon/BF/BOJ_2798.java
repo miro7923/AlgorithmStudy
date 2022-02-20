@@ -59,7 +59,7 @@ public class BOJ_2798 {
 					
 					if(arr[i] + arr[j] + arr[k] == M) { // M값일경우 즉시 출력 후 종료
 						result = M;
-						System.out.println(temp);
+						System.out.println(result);
 						return;
 					}
 					else if (arr[i] + arr[j] + arr[k] < M){ // M값보다 작을 경우
